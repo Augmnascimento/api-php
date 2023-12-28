@@ -1,0 +1,17 @@
+GET http://localhost/api_php_puro/public/v1/get_all_data/
+
+###
+
+GET http://localhost/api_php_puro/public/v1/get_all_names/
+
+###
+
+GET http://localhost/api_php_puro/public/v1/get_total_records/
+
+###
+
+GET http://localhost/api_php_puro/public/v1/get_email_domains/
+
+###
+
+GET http://localhost/api_php_puro/public/v1/get_person_data?id=2
